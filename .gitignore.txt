@@ -1,0 +1,5 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CatBoost info files
+catboost_info/
